@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ArnabSen1
+- 👀 I’m interested in coding and exploring something new.
+- 🌱 I’m currently learning Btech in IT Department.
+- you can reach me through my Linkdin profile - https://in.linkedin.com/in/arnab-sen-51154b247?trk=profile-badge
+- Age:19
+- Github Link-https://github.com/ArnabSen1
+- city:Kolkata
