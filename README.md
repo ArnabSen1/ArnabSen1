@@ -37,6 +37,7 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
 
+<br/>
 
 
 - 🌱 I’m currently learning **PostgresSql, Flask(Adv), Flutter(Adv)**
