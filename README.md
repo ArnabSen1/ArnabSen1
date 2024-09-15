@@ -45,6 +45,8 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 
 - 🌱 I’m currently learning **PostgresSql, Flask(Adv), Flutter(Adv)**
 - 👨‍💻 All of my projects are available at [https://github.com/Arnab-Sen](https://github.com/ArnabSen1)
-- 💬 Ask me about **Flutter, Python3, Flask, Dart, sql, MongoDb, HTML, CSS**
+- 💬 Ask me about **Flutter, Python3, Flask, Dart, SQL, MongoDB, HTML, CSS**
 - 📫 How to reach me **arnabsen236@gmail.com**
+- 🏆 I have completed my internship at **WebsoftTechs** as a Junior Developer Intern for 3 months.
+
 
