@@ -36,7 +36,7 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
 </div>
 
